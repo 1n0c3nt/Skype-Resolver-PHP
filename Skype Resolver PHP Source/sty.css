@@ -1,0 +1,34 @@
+ <style type="text/css">
+
+{
+}
+	.username {
+		border: none;
+		width: 200px;
+		height: 25px;
+		text-align: center;
+		background-color: #f2f2f2;
+		box-shadow: #b20000 0px 2px;
+	}
+	.buton {
+		width: 88px;
+		height: 25px;
+		background-color: #b20000;
+		border: none;
+		font-family: "Segoe Print";
+		box-shadow: #7c0000 0px 3px;
+		color: #000000;
+	}
+	    .marquee{
+    color: white;
+    font-size: 20px;
+    font-family: "Segoe Print";
+    text-shadow: black 0px 0px 15px;
+	    }
+	body {
+		background: url("https://s-media-cache-ak0.pinimg.com/originals/cc/11/7f/cc117f49be98a60dcf1c3e380cbb86b9.gif");
+		background-attachment: fixed;
+
+	}
+
+</style>
